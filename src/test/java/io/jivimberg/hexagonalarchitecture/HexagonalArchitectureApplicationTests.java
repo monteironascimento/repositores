@@ -1,10 +1,10 @@
-package br.com.monteiro.repositores;
+package io.jivimberg.hexagonalarchitecture;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RepositoresApplicationTests {
+class HexagonalArchitectureApplicationTests {
 
 	@Test
 	void contextLoads() {
